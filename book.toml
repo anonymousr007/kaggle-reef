@@ -1,7 +1,7 @@
 [book]
-title = "Constorion mdBook Template Documentation"
+title = "Tensorflow - Help Protect the Great Barrier Reef"
 authors = ["Rishabh"]
-description = ""
+description = "Detect crown-of-thorns starfish in underwater image data"
 language = "en"
 multilingual = false
 src = "src"
