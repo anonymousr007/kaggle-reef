@@ -14,6 +14,6 @@ edition = "2018"
 
 [output.html]
 default-theme = "rust"
-git-repository-url = "https://github.com/constorion/constorion-mdbook-template"
+git-repository-url = "https://github.com/anonymousr007/kaggle-reef"
 git-repository-icon = "fa-github"
 mathjax-support = true
